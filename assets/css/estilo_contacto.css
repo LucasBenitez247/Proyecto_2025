@@ -1,0 +1,16 @@
+.titulo {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 46px;
+  margin-bottom: 30px;
+}
+
+.contact-form {
+  border: 2px solid #333;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.custom-input {
+  border-radius: 15px;
+  margin-bottom: 10px;
+}
