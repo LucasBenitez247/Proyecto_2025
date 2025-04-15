@@ -1,0 +1,28 @@
+.titulo {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 46px;
+  font-weight: bold;
+}
+
+.subtitulo {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+.icono-img {
+  max-width: 90px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.icono-tarjeta {
+  font-size: 40px;
+  margin: 0 10px;
+  color: #333;
+}
